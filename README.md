@@ -1,10 +1,9 @@
-# README
+# README 
 
 ## Table of contents
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 * [License](#license)
 * [Description](#Description)
 * [Contribution](#Contribution)
@@ -20,13 +19,16 @@ License: Apache
 
 https://choosealicense.com/licenses/apache-2.0/
 
+## Description
+Answer each quetion prompt to generate a professional README file for your project.
+
 ## Installation
 
-Follow instructions to install:
-N/A
+##Follow instructions to install
+Clone code to your computer.
 
 ## Usage
-To generate a README
+This app is use for README.md generation.
 
 ## Contribution
 N/A
@@ -37,5 +39,5 @@ N/A
 
 ## Ask Me
 Ways of contact:
-GitHub: https://github.com/https://github.com/mukukuu/README
+GitHub: https://github.com/https://github.com/mukukuu
 Email Address: qinii@me.com
