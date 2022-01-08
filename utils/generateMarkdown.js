@@ -66,8 +66,11 @@ function generateMarkdown(data) {
 * [Email](#Email)
 
 ## License
+
 ${renderLicenseSection(data.License)} 
+
 ![license](${renderLicenseBadge(data.License)})
+
 ${renderLicenseLink(data.License)}
 
 ## Installation

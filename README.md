@@ -1,4 +1,4 @@
-# i
+# README
 
 ## Table of contents
 
@@ -14,26 +14,28 @@
 
 ## License
 
-![license](https://img.shields.io/badge/license-GNU-blue)
+License: Apache 
 
-https://choosealicense.com/licenses/agpl-3.0/
+![license](https://img.shields.io/badge/license-Apache-blue)
+
+https://choosealicense.com/licenses/apache-2.0/
 
 ## Installation
 
 Follow instructions to install:
-i
+N/A
 
 ## Usage
-i
+To generate a README file
 
 ## Contribution
-i
+frok
 
 ## Test
 Follow instructions to rn a test
-i
+N/A
 
 ## Ask Me
 Ways of contact:
-GitHub: https://github.com/i
-Email Address: i
+GitHub: https://github.com/https://github.com/mukukuu
+Email Address: yyy@dd.com
