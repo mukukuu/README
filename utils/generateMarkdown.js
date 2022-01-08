@@ -76,8 +76,9 @@ ${renderLicenseLink(data.License)}
 ${data.Description}
 
 ## Installation
+${data.Installation}
 
-##Follow instructions to install
+Follow instructions to install
 ${data.Installation}
 
 ## Usage
@@ -87,7 +88,6 @@ ${data.Usage}
 ${data.Contribution}
 
 ## Test
-Follow instructions to rn a test
 ${data.Test}
 
 ## Ask Me
