@@ -160,6 +160,3 @@ init();
 
 
 
-
-// const generatePage = require('./src/readme-template.js');
-
