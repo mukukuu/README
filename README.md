@@ -26,10 +26,10 @@ Follow instructions to install:
 N/A
 
 ## Usage
-To generate a README file
+To generate a README
 
 ## Contribution
-frok
+N/A
 
 ## Test
 Follow instructions to rn a test
@@ -37,5 +37,5 @@ N/A
 
 ## Ask Me
 Ways of contact:
-GitHub: https://github.com/https://github.com/mukukuu
-Email Address: yyy@dd.com
+GitHub: https://github.com/https://github.com/mukukuu/README
+Email Address: qinii@me.com
